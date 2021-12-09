@@ -7,6 +7,7 @@ body {
   */
   font-size: 80%;
   font-family: sans-serif,monospace;
+  font-weight: lighter;
   letter-spacing: 0.20em;
   background-color: #ffffff;
 }
