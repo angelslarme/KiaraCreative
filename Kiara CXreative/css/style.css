@@ -89,7 +89,12 @@ a:hover, a.on {
 }
 
 
+h4 {
+  color: #000000;
+  text-transform: uppercase;
+  font-weight: normal;
 
+}
 
 
 
